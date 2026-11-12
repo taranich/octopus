@@ -1,0 +1,24 @@
+Screen {
+    layout: vertical;
+}
+
+#tentacle-list {
+    border: round white;
+}
+
+TentacleListItem {
+    layout: horizontal;
+    height: 1;
+}
+
+#name {
+    width: 1fr;
+}
+
+#animation {
+    width: 3;
+}
+
+#status {
+    width: 6fr;
+}
